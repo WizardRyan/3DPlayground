@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "3DEnvironmentPlayground.dll": "sha256-eDCgO\/kshl6+L3ca1pXEDGowySmsMUdXZIF3PkxPBOY=",
+      "3DEnvironmentPlayground.dll": "sha256-u0WGU17NWqsJHWKyZH2s0HNQ\/IwpONRGMRHxGpqmpOE=",
       "Blazor3D.dll": "sha256-NjkQ3ld\/2+jFktAJn2kCC\/qOZYTVbLg6T9PPfJzalZY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-KVvr3J2gVt4k2fjbQuKiJVG2TEKNEpqFlmMpovu9\/es=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-\/kePzhaRk5MAOe1fYzDZRs7HFjFBPuPRmmHcJ0JLvDs=",
